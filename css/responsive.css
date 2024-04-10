@@ -1,0 +1,680 @@
+@media (max-width: 1566.98px) {
+    .home-one .main-home-one .right-one h2 {
+        width: 100%;
+    }
+
+    .home-one .main-home-one .right-one p {
+        width: 100%;
+    }
+
+    .home-one .main-home-one {
+        padding-inline: 120px;
+    }
+
+    section.about-me {
+        padding: 50px 143px;
+    }
+
+    section.about-me .self-info .common-me {
+        width: 29%;
+    }
+
+    #even-res {
+        width: 35%;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix p {
+        margin-left: 43px;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix p::before {
+
+        left: -35%;
+        top: 24%;
+    }
+
+    .main-contact .colerd {
+        width: 78%;
+    }
+
+    .main-contact .colerd .left-contact h5::after {
+        left: -19%;
+    }
+
+
+}
+
+@media (max-width: 1430.98px) {
+    section.about-me .self-info .common-me {
+        width: 27%;
+    }
+
+    .main-contact .colerd {
+        width: 87%;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix p::before {
+        left: -29%;
+    }
+
+    .icon-group .flex-icon {
+        right: -14%;
+    }
+
+    section.contact-us {
+        padding: 50px 107px;
+    }
+
+    .main-contact .colerd {
+        margin-top: 3rem;
+    }
+}
+
+
+@media (max-width: 1366.98px) {
+    .home-one .main-home-one .left-one img {
+        width: 76%;
+    }
+
+    .main-contact .colerd .left-contact h5 {
+        font-size: 37px;
+    }
+
+    .main-contact .colerd .left-contact h5 span {
+        font-size: 37px;
+    }
+
+    .icon-group .flex-icon img {
+        margin-left: -60px;
+        width: 33%;
+    }
+
+    .icon-group .flex-icon {
+        right: -24%;
+    }
+
+    section.kro-chat .main-chat .left-text h2 {
+        font-size: 76px;
+    }
+
+    section.kro-chat .main-chat .left-text h2 span::after {
+        content: "";
+        position: absolute;
+        left: -37%;
+        top: 62px;
+    }
+
+    .home-one .main-home-one .left-one {
+        width: 43%;
+    }
+
+    .home-one .main-home-one {
+        padding-inline: 104px;
+    }
+
+    .home-one .main-home-one .right-one h2 {
+        font-size: 43px;
+    }
+
+    .home-one .main-home-one .right-one p {
+        font-size: 20px;
+
+    }
+
+    section.home-sec .main-home #v-pills-tab {
+        top: 20%;
+    }
+
+    section.about-me {
+        padding: 50px 107px;
+    }
+
+    section.about-me .self-info .common-me .fade-one h5 {
+        font-size: 16px;
+    }
+
+    section.about-me .self-info .common-me .fade-light-main .light-one h5 {
+        font-size: 16px;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix p {
+        margin: 0;
+        font-size: 15px;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix p::before {
+        display: none;
+    }
+
+    section.about-me .self-info .common-me {
+        width: 28%;
+    }
+
+    .my-port {
+        padding: 50px 106px;
+    }
+}
+
+@media (max-width: 1199.98px) {
+
+    section.kro-chat .main-chat .left-text h2 {
+        font-size: 65px;
+    }
+    .icon-group .flex-icon img {
+        margin-left: -53px;
+        width: 27%;
+    }
+    section.kro-chat .main-chat .left-text h2 span::after {
+        content: "";
+        position: absolute;
+        left: -37%;
+        top: 50px;}
+    .main-contact .colerd {
+        width: 94%;
+    }
+
+    .icon-group .flex-icon {
+        right: -41%;
+    }
+
+    .icon-group .flex-icon {
+        right: -37%;
+    }
+
+    .right-contact .input-group {
+        width: 95%;
+        box-shadow: 0px 0px 11px 2px rgb(183 183 183 / 15%);
+    }
+
+
+
+    .home-one .main-home-one {
+        padding-inline: 62px;
+    }
+
+    .home-one .main-home-one .right-one {
+        width: 50%;
+    }
+
+    .home-one .main-home-one .right-one p {
+        width: 96%;
+    }
+
+    section.about-me .self-info .common-me {
+        width: 50%;
+    }
+
+    section.about-me .self-info .flex-common {
+        flex-wrap: wrap-reverse;
+    }
+
+    #even-res {
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+
+    section.about-me::after {
+        content: "";
+        position: absolute;
+        left: -3%;
+        opacity: .3;
+        width: 19%;
+        height: 100%;
+        background: url(../img/my-removebg-preview1.png) no-repeat;
+        bottom: 0;
+        background-position: bottom;
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 16px;
+    }
+
+    .my-port .main-port .nav-tabs .nav-item.show .nav-link,
+    .nav-tabs .nav-link.active {
+        color: #ffb400;
+        background: unset !important;
+        border: unset;
+        font-size: 16px;
+        font-weight: 600;
+        outline: unset !important;
+    }
+    section.kro-chat .main-chat .right-image img {
+        width: 100%;
+    }
+
+}
+@media (max-width: 1100.98px) {
+section.kro-chat .main-chat .left-text span {
+    margin-left: 9rem;
+}
+section.kro-chat .main-chat .left-text h2 {
+    font-size: 57px;
+}
+
+}
+
+@media (max-width: 991.98px) {
+    .home-one {
+        padding: 100px 0px;
+        height: auto;
+    }
+    section.kro-chat .main-chat .left-text img {
+        margin-left: 7%;
+        margin-top: 3rem;
+    }
+    
+    
+    section.contact-us {
+        padding: 100px 0px;
+        height: auto;
+    }
+
+    .home-one {
+        background: #111111;
+    }
+    section.kro-chat .main-chat .right-image {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        position: relative;
+        height: 100vh;
+        left: 0;
+    }
+    section.kro-chat .main-chat .left-text h2 {
+
+        margin-left: 7%;
+    }
+    section.kro-chat .main-chat .left-text {
+        width: 80%;
+    }
+    .icon-group .flex-icon {
+        right: 0;
+    }
+
+    .icon-group .flex-icon img {
+        margin-left: -60px;
+        width: 33%;
+    }
+
+    .home-one .main-home-one {
+        padding-inline: 62px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-one .main-home-one .left-one {
+        width: 100%;
+    }
+
+    .home-one .main-home-one .right-one {
+        width: 100%;
+        margin-top: 27px;
+    }
+
+    .home-one .main-home-one .right-one span {
+        color: white;
+        margin-left: 1%;
+    }
+
+    .home-one .main-home-one .left-one img {
+        width: 44%;
+        height: 67%;
+        border-radius: 100%;
+        object-fit: scale-down;
+        border: 2px yellow dotted;
+    }
+
+    .home-one .main-home-one .right-one h2::before {
+        content: "";
+        position: absolute;
+        width: 56px;
+        height: 6px;
+        left: 1%;
+        background-color: #FFB400;
+        top: 75%;
+        display: none;
+    }
+
+    .home-one .main-home-one .left-one {
+        width: 100%;
+        display: flex;
+        align-items: center;
+    }
+
+    .home-one .main-home-one .right-one h2 {
+        width: 76%;
+    }
+
+    .home-one .main-home-one .right-one {
+        width: 100%;
+    }
+
+    .my-port {
+        padding: 50px 20px;
+    }
+
+    section.home-sec {
+        height: auto;
+    }
+
+    section.home-sec .main-home #v-pills-tab {
+        bottom: 0;
+    }
+
+    section.home-sec .main-home #v-pills-tab {
+        bottom: 0;
+        display: flex;
+        flex-direction: row !important;
+        justify-content: space-between;
+        width: 100%;
+        padding: 10px;
+        left: 0;
+        height: auto;
+        top: unset;
+    }
+
+    section.home-sec .main-home #v-pills-tab .nav-link {
+        margin-bottom: 0;
+    }
+
+    .nav-link:nth-child(1):hover h2 {
+        background: unset;
+    }
+
+    .nav-link:nth-child(2):hover h2 {
+        background: unset;
+    }
+
+    .nav-link:nth-child(3):hover h2 {
+        background: unset;
+    }
+
+    .nav-link:nth-child(4):hover h2 {
+        background: unset;
+    }
+
+    .nav-link:nth-child(5):hover h2 {
+        background: unset;
+    }
+
+    section.home-sec .main-home #v-pills-tab .nav-link h2 {
+        display: none !important;
+    }
+
+    section.about-me {
+        padding: 50px 30px;
+    }
+
+}
+
+
+@media (max-width: 767.98px) {
+    section.kro-chat .main-chat .left-text img {
+        margin-left: 0%;
+        margin-top: 2rem;
+    }
+    .home-one .main-home-one {
+        padding-inline: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    section.kro-chat .main-chat .right-image img {
+        display: none;
+    }
+    .home-one .main-home-one .right-one h2 {
+        font-size: 38px;
+    }
+    section.kro-chat .main-chat .right-image {
+        width: 0%;}
+    .home-one .main-home-one .right-one span {
+        font-size: 38px;
+    }
+    section.kro-chat .main-chat .left-text h2 {
+        margin-left: 0;
+    }
+    
+
+
+    /* .main-contact .colerd {
+        width: 97%;
+        flex-direction: column;
+    }
+    .main-contact .colerd {
+        width: 97%;
+        align-items: flex-start;
+        flex-direction: column;
+    } */
+    .main-contact .colerd .left-contact h5::after {
+        left: -24%;
+    }
+
+    .main-contact .colerd .left-contact h5::after {
+        content: "";
+        position: absolute;
+        left: -28%;
+        width: 47px;
+        height: 5px;
+        top: 19px;
+        background-color: #FFB400;
+    }
+
+    .icon-group .flex-icon {
+        right: -8%;
+    }
+
+    .icon-group .flex-icon {
+        position: absolute;
+        top: -44px;
+    }
+
+    .main-contact .colerd .left-contact h5::after {
+        display: none;
+    }
+
+    .main-contact .colerd .left-contact h5 {
+        margin-left: 0;
+    }
+
+    .icon-group .flex-icon img {
+        margin-left: 0;
+        width: 24%;
+    }
+
+    .main-contact .colerd .left-contact h4 {
+        font-size: 31px;
+    }
+
+    .main-contact .colerd .left-contact h5 {
+        font-size: 31px;
+    }
+
+    .my-port .main-port #nav-tab {
+        border-bottom: 2px solid #272727;
+        white-space: nowrap !important;
+        overflow-x: auto;
+        flex-wrap: nowrap;
+        padding: 0;
+    }
+
+    section.graphic .main-graphic ul a {
+        width: 50%;
+    }
+    section.kro-chat .main-chat .left-text h2 span::after{
+        display: none;
+    }
+    section.kro-chat .main-chat .left-text {
+        width: 100%;
+        text-align: center;
+    }
+    section.kro-chat .main-chat .left-text span {
+        margin-left: 0;
+    }
+    section.kro-chat .main-chat {
+        position: relative;
+    }
+    section.kro-chat .main-chat::after {
+        content: "";
+        position: absolute;
+        background: url(../img/thanx.png) no-repeat;
+        bottom: 0%;
+        height: 100%;
+        width: 100%;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 567.98px) {
+    .home-one .main-home-one .left-one img {
+        width: 78%;
+    }
+    section.kro-chat .main-chat .left-text h2 {
+        font-size: 45px;
+    }
+
+    .home-one .main-home-one .right-one span {
+        font-size: 35px;
+    }
+
+    .intro--heading{
+
+        display: flex;
+        flex-direction: column;
+    }
+
+    .home-one .main-home-one .right-one h2 {
+        font-size: 33px;
+        width: 100%;
+    }
+    .icon-group {
+        float: left;
+        width: 86%;
+    }
+    .home-one .main-home-one .right-one span {
+        font-size: 33px;
+    }
+
+    .home-one {
+        padding: 0px 0px 130px 0px;
+        height: auto;
+    }
+
+    .home-one .main-home-one {
+        padding-inline: 16px;
+    }
+
+    .home-one .main-home-one .right-one p {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    section.about-me .self-info .common-me .boxies-same .fix {
+        width: 100%;
+    }
+
+    section.about-me .self-info .inner-head h2 {
+        font-size: 26px;
+        font-weight: 600;
+        color: white;
+        margin-top: 3rem;
+    }
+
+    section.about-me .self-info .common-me {
+        width: 100%;
+    }
+
+    section.about-me .self-info .flex-common {
+        flex-wrap: wrap;
+        position: relative;
+    }
+
+    section.graphic .main-graphic ul a {
+        width: 100%;
+    }
+
+    section.about-me .self-info .common-me .down-cv {
+        bottom: -4%;
+        position: absolute;
+    }
+
+    .skills .main-skills .inner-skill {
+        width: 50%;
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    section.about-me::after {
+        content: "";
+        position: absolute;
+        left: -3%;
+        opacity: .2;
+        width: 97%;
+    }
+
+    .my-port .head-port h2 {
+        font-size: 59px;
+        font-weight: 700;
+        position: absolute;
+        color: #232323;
+        right: -1%;
+        top: 16%;
+    }
+
+    .my-port {
+        padding: 0px 0px 150px 0px;
+    }
+
+    .my-port .main-port {
+
+        margin-top: 2rem;
+    }
+
+    section.contact-us .contact-head h2 {
+        font-size: 61px;
+        font-weight: 700;
+        position: absolute;
+        color: #232323;
+        right: -11%;
+        top: 13%;
+        white-space: nowrap;
+    }
+
+    .main-contact .colerd {
+        width: 97%;
+        flex-direction: column;
+    }
+
+    .main-contact .colerd {
+        width: 97%;
+        align-items: flex-start;
+        flex-direction: column;
+    }
+
+    .main-contact .colerd .left-contact {
+        width: 100%;
+    }
+
+    .right-contact {
+        width: 100%;
+        justify-content: end;
+    }
+
+    .right-contact .input-group {
+        width: 100%;
+    }
+
+    .right-contact .input-group {
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .icon-group .flex-icon img {
+        margin-left: 0;
+        width: 22%;
+    }
+
+    .icon-group .flex-icon {
+        position: absolute;
+        top: -28px;
+    }
+
+}
